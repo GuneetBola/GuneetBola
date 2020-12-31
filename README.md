@@ -21,7 +21,7 @@
       - React and its role in Front-End Development
       - How to incorporate PHP, APIs, and MySQL into a websit
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=GuneetBola&theme=<THEME_NAME>" />
+<img align="center" src="https://github-readme-stats.vercel.app/api//?username=GuneetBola&theme=<THEME_NAME>" />
 
 
 
