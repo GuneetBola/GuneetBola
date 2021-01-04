@@ -19,7 +19,7 @@
      - iSwim : An interactive online platform where swimmers can share their experiences and fitness tips.
 - 💻 I’m currently learning 
       - React and its role in Front-End Development
-      - How to incorporate PHP, APIs, and MySQL into a websit
+      - How to incorporate PHP, APIs, and MySQL into a website
 
 
 
