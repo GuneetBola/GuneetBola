@@ -5,7 +5,7 @@
 -->
 
 ### About Me:
-- 📚 Student at the University of Waterloo
+- 📚 First-year Computer Science Student at the University of Waterloo
 - 📫 How to reach me: 
       Email: gbola@uwaterloo.ca
       Linkedin: https://www.linkedin.com/in/guneet-bola-77ab821a7/
