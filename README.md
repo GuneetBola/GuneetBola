@@ -7,10 +7,11 @@
 ### About Me:
 - 📚 First-year Computer Science Student at the University of Waterloo
 - 📫 How to reach me: 
+
       Email: gbola@uwaterloo.ca
       Linkedin: https://www.linkedin.com/in/guneet-bola-77ab821a7/
 - 😄 Pronouns: She/Her
-
+- 💻 Learn more about me here: https://guneetbola.netlify.app/ 
 
 ### What I am currently doing:
 - 📈 I’m currently working on 
