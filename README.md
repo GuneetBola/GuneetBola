@@ -5,7 +5,7 @@
 -->
 
 ### About Me:
-- 📚 Third-year Computer Science Student at the University of Waterloo
+- 📚 Forth-year Computer Science Student at the University of Waterloo
 - 📫 How to reach me: 
 
       Email: gbola@uwaterloo.ca
